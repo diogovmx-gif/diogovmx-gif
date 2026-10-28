@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**diogovmx-gif/diogovmx-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Diogo Victor! 👋
 
-Here are some ideas to get you started:
+### Undergraduate Computer Science student at UFAL (Brazil- Alagoas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+### 💻 About Me
+* 🌱 Currently pursuing my bachelor's degree in **Computer Science** at the **Federal University of Alagoas (UFAL)**.
+* ⚡ Passionate about algorithmic problem-solving, clean code constraints, and coding.
+* 🌍 Based in Maceió, Alagoas, Brazil.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** C
+* **Tools & Environment:** VS Code, Git, Linux / Windows
+
+
+---
+
+
+
+<p>
+<img src = "https://img.shields.io/badge/language-C%2FC%2B%2B-yellow?style=flat-square">
+  
+</p>
